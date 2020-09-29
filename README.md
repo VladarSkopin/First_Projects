@@ -1,2 +1,2 @@
 # First_Projects
-Some projects I studied on JetBrains Academy
+Some projects I build while studying on JetBrains Academy
